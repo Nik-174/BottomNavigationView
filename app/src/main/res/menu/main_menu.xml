@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/ic_basesave"
+        android:orderInCategory="1"
+        android:title="@string/save" />
+    <item
+        android:id="@+id/sav1"
+        android:icon="@drawable/ic_baseret"
+        android:orderInCategory="2"
+        android:title="@string/ret" />
+    <item
+        android:id="@+id/sav2"
+        android:icon="@drawable/ic_baseback"
+        android:orderInCategory="3"
+        android:title="@string/back" />
+    <item
+        android:id="@+id/sav3"
+        android:icon="@drawable/ic_baseplane"
+        android:orderInCategory="4"
+        android:title="@string/plane" />
+
+</menu>

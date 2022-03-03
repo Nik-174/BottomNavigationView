@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigationView</string>
+    <string name="save">save</string>
+    <string name="ret">return</string>
+    <string name="back">back</string>
+    <string name="plane">plane</string>
+
+</resources>
